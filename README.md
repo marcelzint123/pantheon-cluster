@@ -1,6 +1,7 @@
 # pantheon-cluster
 Private cloud infrastructure built on Raspberry pi 5 &amp; K3s
-[Pantheon_Cluster_Dokumentation_GitHub.docx](https://github.com/user-attachments/files/28930877/Pantheon_Cluster_Dokumentation_GitHub.docx)
+[Uploading Pantheon_Cluster_Dokumentation_GitHub.pdf…]()
+
 # 🏛️ Pantheon Cluster
 
 > *ALEA IACTA EST – The die is cast.*
