@@ -1,6 +1,5 @@
 # pantheon-cluster
 Private cloud infrastructure built on Raspberry pi 5 &amp; K3s
-[Uploading Pantheon_Cluster_Dokumentation_GitHub.pdf…]()
 
 # 🏛️ Pantheon Cluster
 
